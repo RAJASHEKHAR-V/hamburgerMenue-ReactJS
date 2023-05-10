@@ -1,0 +1,34 @@
+.not-found-container {
+  background-color: #ffffff;
+  min-height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.no-found-card {
+  width: 80%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.not-found-image {
+  width: 60%;
+}
+
+.lost-heading {
+  font-family: 'Roboto';
+  color: #616e7c;
+  font-weight: 700;
+}
+
+.error-msg {
+  font-family: 'Roboto';
+  color: #616e7c;
+  font-weight: 400;
+}

@@ -1,0 +1,25 @@
+.header-card {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #dcdcdc;
+  padding-left: 20px;
+  padding-right: 20px;
+  height: 10vh;
+}
+
+.web-logo {
+  width: 35px;
+  height: 35px;
+}
+
+.burger-button {
+  width: 35px;
+  height: 35px;
+}
+
+.Hamburger-icon {
+  width: 100%;
+  height: 100%;
+}
