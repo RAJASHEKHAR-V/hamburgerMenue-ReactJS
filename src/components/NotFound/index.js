@@ -13,7 +13,7 @@ const NotFound = () => (
       />
       <h1 className="lost-heading">Lost Your Way?</h1>
       <p className="error-msg">
-        Sorry, we cannot find that page. You will find the lot to explore on the
+        Sorry, we cannot find that page. You will find lots to explore on the
         home page
       </p>
     </div>

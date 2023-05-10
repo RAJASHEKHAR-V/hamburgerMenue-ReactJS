@@ -1,4 +1,4 @@
-.popup-container {
+/* .popup-container {
   background-color: #ffffff;
   min-height: 100vh;
   background-size: cover;
@@ -6,10 +6,10 @@
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
-}
+} */
 
 .home-page-card {
-  width: 80%;
+  width: 100%;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -33,7 +33,7 @@
   }
 }
 
-.close-icon-card {
+/* .close-icon-card {
   width: 100%;
   display: flex;
   justify-content: flex-end;
@@ -76,4 +76,4 @@
   font-family: 'Roboto';
   color: #616e7c;
   font-weight: 700;
-}
+} */
